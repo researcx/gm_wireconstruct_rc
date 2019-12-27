@@ -2,7 +2,7 @@
 
 The official [Wiremod](http://www.wiremod.com/) map, used to come bundled with [Wiremod](http://www.wiremod.com/).
 
-Map originally conceived and created by unendingPattern and [Black Phoenix](http://steamcommunity.com/profiles/76561197982559015/).
+Map originally conceived and created by [unendingPattern](https://github.com/unendingPattern) and [Black Phoenix](http://steamcommunity.com/profiles/76561197982559015/).
 
 **Features:**
 
